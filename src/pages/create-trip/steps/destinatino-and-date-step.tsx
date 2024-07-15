@@ -29,7 +29,6 @@ export function DestinationAndDateStep({
                 <input
                     disabled={isGuestsInputOpen}
                     type="date"
-                    placeholder="Quando?"
                     className="bg-transparent text-lg placeholder-zinc-400 w-40 outline-none flex-1"
                 />
             </div>
